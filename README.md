@@ -1,5 +1,5 @@
 # machine_learning_notes
-This repository contains my **week-by-week practice notebooks**as i learn ML step by step
+This repository contains my **week-by-week practice notebooks** as I learn ML step by step
 
 ##weeks covered
 - *Week 1:* Math & ML Intuition (Supervised/Unsupervised, Bias-Variance, Euclidean Distance)
