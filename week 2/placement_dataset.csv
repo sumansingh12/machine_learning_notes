@@ -1,0 +1,201 @@
+Student_ID,CGPA,Package(LPA),Branch,Company,Status
+1,7.04,17.6,CSE,Amazon,Placed
+2,8.48,15.8,ME,Wipro,Placed
+3,7.34,10.4,ME,Adobe,Placed
+4,7.26,0.0,IT,-,Not Placed
+5,6.33,0.0,IT,-,Not Placed
+6,8.73,0.0,CSE,-,Not Placed
+7,5.08,0.0,ME,-,Not Placed
+8,7.8,0.0,IT,-,Not Placed
+9,6.54,21.5,ECE,Wipro,Placed
+10,5.11,24.9,EEE,Infosys,Placed
+11,8.61,10.3,EEE,Accenture,Placed
+12,9.93,0.0,IT,-,Not Placed
+13,6.46,0.0,EEE,-,Not Placed
+14,8.96,0.0,IT,-,Not Placed
+15,9.67,6.6,Civil,Google,Placed
+16,8.19,21.0,IT,Oracle,Placed
+17,7.71,0.0,ME,-,Not Placed
+18,6.64,0.0,EEE,-,Not Placed
+19,7.29,9.3,Civil,Amazon,Placed
+20,7.82,13.7,ME,TCS,Placed
+21,8.32,0.0,ME,-,Not Placed
+22,6.15,23.5,IT,Amazon,Placed
+23,6.85,16.8,Civil,Infosys,Placed
+24,7.93,6.2,EEE,Oracle,Placed
+25,5.15,8.8,Civil,Infosys,Placed
+26,9.89,6.7,IT,TCS,Placed
+27,9.75,0.0,CSE,-,Not Placed
+28,9.44,21.3,ME,Microsoft,Placed
+29,7.21,11.7,IT,Wipro,Placed
+30,8.15,14.5,Civil,Accenture,Placed
+31,9.43,0.0,ECE,-,Not Placed
+32,8.29,0.0,EEE,-,Not Placed
+33,6.7,0.0,ME,-,Not Placed
+34,7.23,0.0,ECE,-,Not Placed
+35,6.55,20.4,Civil,Deloitte,Placed
+36,8.32,0.0,ECE,-,Not Placed
+37,8.89,0.0,ME,-,Not Placed
+38,8.38,0.0,IT,-,Not Placed
+39,6.6,0.0,ME,-,Not Placed
+40,9.35,15.6,CSE,TCS,Placed
+41,6.36,13.1,Civil,Wipro,Placed
+42,7.9,14.1,EEE,Adobe,Placed
+43,8.79,14.4,Civil,Infosys,Placed
+44,5.15,0.0,Civil,-,Not Placed
+45,7.16,5.7,EEE,Oracle,Placed
+46,9.81,0.0,IT,-,Not Placed
+47,8.94,0.0,CSE,-,Not Placed
+48,9.35,11.7,CSE,Accenture,Placed
+49,8.72,0.0,IT,-,Not Placed
+50,5.07,10.5,Civil,Infosys,Placed
+51,8.06,0.0,CSE,-,Not Placed
+52,9.0,14.8,Civil,Accenture,Placed
+53,9.45,9.1,ECE,Oracle,Placed
+54,9.64,9.6,CSE,Google,Placed
+55,5.83,0.0,ME,-,Not Placed
+56,7.14,0.0,EEE,-,Not Placed
+57,8.51,0.0,CSE,-,Not Placed
+58,5.43,5.3,ME,Oracle,Placed
+59,9.7,14.1,ECE,Wipro,Placed
+60,6.26,0.0,ME,-,Not Placed
+61,9.02,0.0,IT,-,Not Placed
+62,6.75,16.8,Civil,TCS,Placed
+63,6.88,6.5,IT,Accenture,Placed
+64,7.44,16.1,Civil,Oracle,Placed
+65,9.33,13.5,EEE,Google,Placed
+66,7.32,4.8,ECE,Oracle,Placed
+67,7.83,0.0,ECE,-,Not Placed
+68,6.77,10.4,ME,TCS,Placed
+69,5.19,0.0,Civil,-,Not Placed
+70,5.05,0.0,ME,-,Not Placed
+71,9.74,0.0,CSE,-,Not Placed
+72,6.55,0.0,IT,-,Not Placed
+73,5.76,0.0,ECE,-,Not Placed
+74,6.1,3.8,EEE,Amazon,Placed
+75,9.0,0.0,CSE,-,Not Placed
+76,5.12,0.0,ECE,-,Not Placed
+77,5.01,6.1,EEE,Wipro,Placed
+78,8.81,0.0,IT,-,Not Placed
+79,6.4,3.5,ECE,Deloitte,Placed
+80,7.08,0.0,Civil,-,Not Placed
+81,5.21,23.0,ECE,Microsoft,Placed
+82,5.57,0.0,ECE,-,Not Placed
+83,8.1,0.0,CSE,-,Not Placed
+84,5.87,0.0,ECE,-,Not Placed
+85,8.57,0.0,EEE,-,Not Placed
+86,6.92,14.8,IT,Amazon,Placed
+87,6.77,14.7,CSE,Adobe,Placed
+88,8.93,8.3,ME,Microsoft,Placed
+89,5.53,0.0,CSE,-,Not Placed
+90,8.74,0.0,IT,-,Not Placed
+91,7.54,17.3,IT,Oracle,Placed
+92,8.09,0.0,ECE,-,Not Placed
+93,9.82,0.0,IT,-,Not Placed
+94,8.81,0.0,ME,-,Not Placed
+95,8.51,7.5,ME,Microsoft,Placed
+96,8.86,0.0,Civil,-,Not Placed
+97,5.61,18.3,CSE,Adobe,Placed
+98,7.69,16.2,CSE,Google,Placed
+99,7.9,0.0,Civil,-,Not Placed
+100,7.89,0.0,IT,-,Not Placed
+101,9.58,0.0,Civil,-,Not Placed
+102,5.46,17.3,EEE,Microsoft,Placed
+103,6.91,13.2,Civil,Google,Placed
+104,5.49,0.0,CSE,-,Not Placed
+105,9.33,10.0,ME,Microsoft,Placed
+106,5.4,0.0,ECE,-,Not Placed
+107,9.3,19.4,ME,Infosys,Placed
+108,7.15,0.0,IT,-,Not Placed
+109,6.47,7.4,IT,Google,Placed
+110,8.4,0.0,IT,-,Not Placed
+111,8.91,0.0,Civil,-,Not Placed
+112,7.79,13.5,ECE,Adobe,Placed
+113,8.98,0.0,Civil,-,Not Placed
+114,8.95,0.0,EEE,-,Not Placed
+115,5.93,7.9,CSE,Wipro,Placed
+116,7.71,0.0,IT,-,Not Placed
+117,6.53,0.0,CSE,-,Not Placed
+118,7.06,20.0,Civil,Infosys,Placed
+119,5.92,11.8,EEE,TCS,Placed
+120,9.31,0.0,EEE,-,Not Placed
+121,7.18,12.4,Civil,Adobe,Placed
+122,5.59,0.0,ECE,-,Not Placed
+123,9.57,0.0,ME,-,Not Placed
+124,6.91,0.0,EEE,-,Not Placed
+125,7.21,0.0,IT,-,Not Placed
+126,7.15,17.9,CSE,Deloitte,Placed
+127,9.11,12.0,CSE,Amazon,Placed
+128,9.78,0.0,Civil,-,Not Placed
+129,8.84,0.0,EEE,-,Not Placed
+130,8.52,9.4,EEE,Infosys,Placed
+131,5.66,6.0,Civil,Amazon,Placed
+132,8.24,21.4,ECE,Wipro,Placed
+133,6.87,0.0,Civil,-,Not Placed
+134,7.5,0.0,ME,-,Not Placed
+135,8.6,16.2,ECE,Infosys,Placed
+136,5.66,0.0,ECE,-,Not Placed
+137,8.68,0.0,EEE,-,Not Placed
+138,9.77,8.2,CSE,Adobe,Placed
+139,8.25,0.0,ME,-,Not Placed
+140,7.33,0.0,Civil,-,Not Placed
+141,6.25,0.0,CSE,-,Not Placed
+142,6.86,24.8,EEE,Adobe,Placed
+143,6.85,9.9,IT,Wipro,Placed
+144,6.44,16.4,Civil,Adobe,Placed
+145,5.55,10.1,Civil,Accenture,Placed
+146,8.35,0.0,IT,-,Not Placed
+147,5.12,0.0,Civil,-,Not Placed
+148,5.5,15.5,CSE,Accenture,Placed
+149,7.33,0.0,CSE,-,Not Placed
+150,9.18,0.0,CSE,-,Not Placed
+151,8.3,15.1,IT,Microsoft,Placed
+152,7.24,4.8,Civil,TCS,Placed
+153,8.82,0.0,ECE,-,Not Placed
+154,9.15,6.8,CSE,Amazon,Placed
+155,5.89,20.9,CSE,Oracle,Placed
+156,7.65,0.0,IT,-,Not Placed
+157,9.04,0.0,IT,-,Not Placed
+158,6.91,21.4,ME,Amazon,Placed
+159,5.49,0.0,CSE,-,Not Placed
+160,6.07,0.0,CSE,-,Not Placed
+161,6.62,19.2,ECE,Adobe,Placed
+162,7.68,0.0,ME,-,Not Placed
+163,8.98,0.0,ME,-,Not Placed
+164,9.38,0.0,ME,-,Not Placed
+165,6.4,16.5,CSE,Adobe,Placed
+166,5.56,0.0,Civil,-,Not Placed
+167,9.0,0.0,IT,-,Not Placed
+168,5.16,0.0,IT,-,Not Placed
+169,7.47,20.0,ECE,Amazon,Placed
+170,9.25,20.6,EEE,Microsoft,Placed
+171,8.81,14.5,CSE,Wipro,Placed
+172,5.49,4.2,Civil,Microsoft,Placed
+173,9.58,0.0,IT,-,Not Placed
+174,6.25,0.0,ECE,-,Not Placed
+175,6.84,6.2,ME,Deloitte,Placed
+176,9.05,0.0,EEE,-,Not Placed
+177,5.21,15.0,CSE,Oracle,Placed
+178,9.86,3.9,ECE,Deloitte,Placed
+179,5.17,13.8,Civil,Wipro,Placed
+180,5.77,0.0,EEE,-,Not Placed
+181,5.61,0.0,IT,-,Not Placed
+182,5.96,0.0,CSE,-,Not Placed
+183,9.4,19.9,IT,Infosys,Placed
+184,9.79,14.3,ECE,Deloitte,Placed
+185,9.9,11.5,CSE,Infosys,Placed
+186,7.37,0.0,IT,-,Not Placed
+187,5.07,0.0,ME,-,Not Placed
+188,7.38,14.6,ECE,Google,Placed
+189,9.7,0.0,ME,-,Not Placed
+190,6.7,0.0,IT,-,Not Placed
+191,8.68,0.0,Civil,-,Not Placed
+192,9.83,18.5,ME,Accenture,Placed
+193,8.9,0.0,Civil,-,Not Placed
+194,6.88,0.0,ECE,-,Not Placed
+195,6.6,19.0,EEE,TCS,Placed
+196,6.02,0.0,CSE,-,Not Placed
+197,6.22,0.0,EEE,-,Not Placed
+198,9.42,0.0,ECE,-,Not Placed
+199,8.64,0.0,EEE,-,Not Placed
+200,9.35,3.3,ME,Accenture,Placed
